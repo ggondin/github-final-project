@@ -12,3 +12,5 @@ Simple interest is calculated using the following formula:
 
 ```text
 Simple Interest = Principal × Rate × Time / 100
+
+© 2023 XYZ, Inc.
